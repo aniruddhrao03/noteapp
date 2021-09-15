@@ -1,70 +1,28 @@
-# Getting Started with Create React App
+<h1 align="center">Notes App</h1>
+<p align="center">
+   <a href="https://aninoteapp.netlify.app"><img src="https://user-images.githubusercontent.com/87496634/129054581-54acf365-b52e-4778-89c8-892dd2a2d0cc.png" width="100"></img></a>
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `yarn start`
+------
+Created a chat app with JavaScript, HTML/CSS and React.js. Developed a notes app with features such as the search for notes and toggle dark mode. Used CSS to style buttons, headers and notes, imported react icons to create delete and search icon. 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+# Images
+![image](https://user-images.githubusercontent.com/87496634/129055610-655613c0-eee9-426f-befc-f49fcc60578c.png)
 
-### `yarn test`
+# Character Count
+![image](https://user-images.githubusercontent.com/87496634/129055780-7a986d77-7661-4490-90fc-b6cec93957ed.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# New Note
+![image](https://user-images.githubusercontent.com/87496634/129055840-ab942217-8ec1-41f2-90b1-f3a86c2ecb20.png)
 
-### `yarn build`
+# Searching Notes
+![image](https://user-images.githubusercontent.com/87496634/129056042-dc785af0-1bfb-49ce-8d72-721e154e1339.png)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Dark Mode
+![image](https://user-images.githubusercontent.com/87496634/129056263-0dfb91d1-bec2-4d26-9eed-f2141e621110.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
